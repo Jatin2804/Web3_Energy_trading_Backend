@@ -44,19 +44,4 @@ Open the folder in any IDE , in the integrated terminal write the command given 
 Server starts at localhost:5500 
 
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-## Project Contributors
-
-Sayantan Kundu - sayantankundu02@gmail.com
-
-Souvik Choudhury - choudhurysouvik2003@gmail.com 
-
-Ankur Manna - suchitrak5plus@gmail.com 
-
-Swarup Banik - banikswarup437@gmail.com
-
-Rajiv Chatterjee - chatterjeerajiv7601@gmail.com
